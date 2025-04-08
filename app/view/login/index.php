@@ -54,7 +54,7 @@
                 }; 
             
             ?>
-			<button type="submit" class="btn btn-block text-center mt-3">Loho Javier Diego</button>
+			<button type="submit" class="btn btn-block text-center mt-3">Login</button>
 		</form>
 	</div>
 </div>
