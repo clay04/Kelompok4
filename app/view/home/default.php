@@ -3,7 +3,7 @@ session_start();
 ?>
 
 <div class="container">
-	<h1>This is my Home Page.</h1>
+	<h1>This is my Javier Page.</h1>
 	
 	<p>I'm <?php echo $data['name']; ?> from Manado.</p>
 	
